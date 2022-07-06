@@ -1,0 +1,25 @@
+body {
+  color: antiquewhite;
+  background-color: rgb(25, 54, 48)
+}
+
+h1 {
+  text-shadow: 5px 5px 5px black;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 50px;
+}
+
+h2 {
+  text-shadow: 3px 3px 3px black;
+  text-align: center;
+  margin-bottom: 25px;
+  
+}
+
+.buttons {
+  color: rgb(142, 6, 160);
+  text-align: center;
+}
+
+
